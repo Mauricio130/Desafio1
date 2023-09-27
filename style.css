@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#parte{
+    margin-left: 55px;
+    padding-bottom: 70px;
+}
+
+#topo{
+    margin-top: 15px;
+    font-size: 45px; 
+    margin-left: 50px;
+    padding-top: 200px;
+    margin-bottom: 15px;
+
+   
+}
+
+#cinza{
+    color: rgb(255, 255, 255);
+    background-image: url(imagens/cinza.svg);
+  
+}
+
+#segundo{
+    background-image: url(imagens/cinza-claro.svg);
+    
+}
+
+#texto-foto{
+    margin-left: 75px;
+    font-size:35px;
+    padding-top: 50px;
+    
+}
+
+#texto-foto2{
+    padding-top: 100px;
+    font-size: 25px;
+    margin-left: 50px;
+    
+    
+    
+}
+
+
+#foto{
+   margin-left: 900px;
+   width: 500px;
+   height: 550px;
+   margin-bottom: 50px;
+    
+}
+
+#cinza2{
+    background-image: url(imagens/cinza2.svg);
+
+}
+
+#textooo{
+    margin-left: 150px;
+    color: white;
+    margin-left: 480px;
+    padding-top: 50px;
+}
+
+#Nome{
+    margin-top: 25px;
+    margin-left: 650px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    top: 1661px;
+    left: 466px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 15px;
+    border:0px;
+
+}
+
+#botao{
+    width: 286px;
+    height: 74px;
+    top: 1955px;
+    left: 577px;
+    border-radius: 10px;
+    margin-left: 620px;
+    margin-top: 25px;
+    background: #C07212;
+    color: aliceblue;
+    font-size: 20px;
+    border: 0px;
+    cursor: pointer;
+    margin-bottom: 50px;;
+    font-weight: bolder;
+
+
+}
